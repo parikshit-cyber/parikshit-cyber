@@ -2,9 +2,9 @@
 
 ### 🧐 About Me
 
-- 💻 Passionate about web development, information security, and software projects
+- 💻 Passionate about web development, information security, automation, and software projects
 - 📅 GitHub User Since: November 23, 2020
-- 🛠️ Skills: JavaScript, HTML, CSS, Python, TypeScript , Automation
+- 🛠️ Skills: JavaScript, HTML, CSS, Python, TypeScript, Automation
 - 🚀 Interests: Web Development, Security Application Development
 
 ### 🔥 Key Repositories
@@ -13,9 +13,7 @@
 2. [Secret-Portal](https://github.com/parikshit-cyber/Secret-Portal)
 3. [Advance-Phishing-Detection](https://github.com/parikshit-cyber/Advance-Phishing-Detection)
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
+---
 
 ### 📊 GitHub Stats
 
@@ -24,10 +22,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=parikshit-cyber&theme=transparent)](https://github.com/parikshit-cyber)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=parikshit-cyber&theme=transparent)](https://git.io/streak-stats)
 
+---
+
 ### 🌟 Reach Out
 
 - [LinkedIn](https://www.linkedin.com/in/parikshit-siingh)
 - Email: parikshits.baghel@gmail.com
+
+---
 
 ### 💡 Additional Insights
 
