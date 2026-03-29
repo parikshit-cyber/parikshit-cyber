@@ -54,4 +54,3 @@ Feel free to explore my repositories and reach out for any collaborations or inq
 
 #### Stay tuned for more exciting projects and updates! 🚀
 
-![Wave GIF](https://media.giphy.com/media/fYSnHlufseco8p4ZBW/giphy.gif)
