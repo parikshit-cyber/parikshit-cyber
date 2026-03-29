@@ -15,10 +15,11 @@
 
 ### 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=parikshit-cyber)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parikshit-cyber)
-[![trophy](https://github-profile-trophy.vercel.app/?username=parikshit-cyber)](https://github.com/parikshit-cyber)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parikshit-cyber)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=parikshit-cyber&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parikshit-cyber&layout=compact&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=parikshit-cyber&theme=transparent)](https://github.com/parikshit-cyber)
 
 ### 🌟 Reach Out
 
